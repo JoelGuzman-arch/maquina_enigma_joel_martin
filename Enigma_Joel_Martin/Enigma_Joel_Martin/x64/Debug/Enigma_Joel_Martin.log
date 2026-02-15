@@ -1,0 +1,3 @@
+﻿  descifrar.cpp
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\descifrar.cpp(122,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Enigma_Joel_Martin.vcxproj -> C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\x64\Debug\Enigma_Joel_Martin.exe
