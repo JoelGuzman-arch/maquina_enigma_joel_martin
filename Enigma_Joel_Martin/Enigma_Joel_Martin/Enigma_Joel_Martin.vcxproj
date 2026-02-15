@@ -127,7 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="cifrar.cpp" />
+    <ClCompile Include="comprobaciones.cpp" />
+    <ClCompile Include="descifrar.cpp" />
+    <ClCompile Include="editar_rotores.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="rotor.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cifrar.h" />
+    <ClInclude Include="comprobaciones.h" />
+    <ClInclude Include="descifrar.h" />
+    <ClInclude Include="editar_rotores.h" />
+    <ClInclude Include="rotor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
