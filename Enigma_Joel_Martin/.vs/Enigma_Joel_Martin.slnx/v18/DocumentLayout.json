@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\descifrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\descifrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\editar_rotores.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\editar_rotores.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -31,20 +39,12 @@
       "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\cifrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\descifrar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\rotor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\rotor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\cifrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\cifrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8E826931-7488-46C3-A343-4FE1E84F68BA}|Enigma_Joel_Martin\\Enigma_Joel_Martin.vcxproj|solutionrelative:Enigma_Joel_Martin\\descifrar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,11 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "editar_rotores.h",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\editar_rotores.h",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\editar_rotores.h",
@@ -71,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "comprobaciones.cpp",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\comprobaciones.cpp",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\comprobaciones.cpp",
@@ -79,12 +79,11 @@
               "RelativeToolTip": "Enigma_Joel_Martin\\comprobaciones.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-15T22:23:08.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:23:08.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "rotor.cpp",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\rotor.cpp",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\rotor.cpp",
@@ -92,12 +91,11 @@
               "RelativeToolTip": "Enigma_Joel_Martin\\rotor.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-15T22:22:49.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:22:49.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "editar_rotores.cpp",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\editar_rotores.cpp",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\editar_rotores.cpp",
@@ -105,24 +103,24 @@
               "RelativeToolTip": "Enigma_Joel_Martin\\editar_rotores.cpp",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-15T22:22:35.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:22:35.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "descifrar.cpp",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.cpp",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\descifrar.cpp",
               "ToolTip": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.cpp",
               "RelativeToolTip": "Enigma_Joel_Martin\\descifrar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-15T22:22:18.878Z"
+              "WhenOpened": "2026-02-15T22:22:18.878Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "cifrar.cpp",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\cifrar.cpp",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\cifrar.cpp",
@@ -130,12 +128,11 @@
               "RelativeToolTip": "Enigma_Joel_Martin\\cifrar.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-15T22:22:03.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:22:03.867Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "comprobaciones.h",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\comprobaciones.h",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\comprobaciones.h",
@@ -143,12 +140,11 @@
               "RelativeToolTip": "Enigma_Joel_Martin\\comprobaciones.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-15T22:21:31.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:21:31.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "rotor.h",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\rotor.h",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\rotor.h",
@@ -160,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "cifrar.h",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\cifrar.h",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\cifrar.h",
@@ -172,19 +168,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "descifrar.h",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.h",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\descifrar.h",
               "ToolTip": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\descifrar.h",
               "RelativeToolTip": "Enigma_Joel_Martin\\descifrar.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-15T22:20:40.369Z"
+              "WhenOpened": "2026-02-15T22:20:40.369Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\joelg\\OneDrive\\Documentos\\maquina_enigma_joel_martin\\Enigma_Joel_Martin\\Enigma_Joel_Martin\\main.cpp",
               "RelativeDocumentMoniker": "Enigma_Joel_Martin\\main.cpp",
@@ -192,8 +189,7 @@
               "RelativeToolTip": "Enigma_Joel_Martin\\main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-15T22:03:29.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-15T22:03:29.288Z"
             }
           ]
         }
