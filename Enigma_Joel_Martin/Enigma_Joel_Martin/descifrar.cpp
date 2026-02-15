@@ -141,17 +141,15 @@ void descifrar(int primera_posicion_indice, int segunda_posicion_indice
         int entrada = caracter - 'A';
 
         int entrada_efectiva3 = (entrada + tercera_posicion_indice) % 26;
-        int salida_mapeada3 = inverso_rotor_tercero[entrada_efectiva3] - 'A';
+        int salida_mapeada3 = tercer_rotor_inverso[entrada_efectiva3] - 'A';
         int salida3 = (salida_mapeada3 - tercera_posicion_indice + 26) % 26;
 
-        int entrada_efectiva2 = (salida3 + segunda_posicion_indice
-            ) % 26;
-        int salida_mapeada2 = inverso_rotor_segundo[entrada_efectiva2] - 'A';
-        int salida2 = (salida_mapeada2 - segunda_posicion_indice
-            + 26) % 26;
+        int entrada_efectiva2 = (salida3 + segunda_posicion_indice) % 26;
+        int salida_mapeada2 = segundo_rotor_inverso[entrada_efectiva2] - 'A';
+        int salida2 = (salida_mapeada2 - segunda_posicion_indice+ 26) % 26;
 
         int entrada_efectiva1 = (salida2 + primera_posicion_indice) % 26;
-        int salida_mapeada1 = inverso_rotor_primero[entrada_efectiva1] - 'A';
+        int salida_mapeada1 = primer_rotor_inverso[entrada_efectiva1] - 'A';
         int salida1 = (salida_mapeada1 - primera_posicion_indice + 26) % 26;
 
         // Convierte el resultado final en una letra
