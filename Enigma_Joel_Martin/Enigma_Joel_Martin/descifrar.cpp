@@ -32,7 +32,7 @@ void descifrar(int primera_posicion_indice, int segunda_posicion_indice
     std::string segundo_rotor_inverso = crearInverso(segundo_rotor);
     std::string tercer_rotor_inverso = crearInverso(tercer_rotor);
 
-    // Cambiado para Error 2: Extraer notches de los rotores originales (no inversos), sin operador ternario
+
     int pos_separador_primero = -1;
     for (int i = 0; i < primer_rotor.length(); ++i) {
         if (primer_rotor[i] == '|') {
@@ -49,7 +49,7 @@ void descifrar(int primera_posicion_indice, int segunda_posicion_indice
     }
     int indice_notch_primero;
     if (notch_primer_rotor.empty() || notch_primer_rotor[0] < 'A' || notch_primer_rotor[0] > 'Z') {
-        indice_notch_primero = 25;  // Default 'Z'
+        indice_notch_primero = 25;  
     }
     else {
         indice_notch_primero = notch_primer_rotor[0] - 'A';
@@ -70,7 +70,7 @@ void descifrar(int primera_posicion_indice, int segunda_posicion_indice
     }
     int indice_notch_segundo;
     if (notch_segundo_rotor.empty() || notch_segundo_rotor[0] < 'A' || notch_segundo_rotor[0] > 'Z') {
-        indice_notch_segundo = 25;  // Default 'Z'
+        indice_notch_segundo = 25;  
     }
     else {
         indice_notch_segundo = notch_segundo_rotor[0] - 'A';
@@ -91,13 +91,12 @@ void descifrar(int primera_posicion_indice, int segunda_posicion_indice
     }
     int indice_notch_tercero;
     if (notch_tercer_rotor.empty() || notch_tercer_rotor[0] < 'A' || notch_tercer_rotor[0] > 'Z') {
-        indice_notch_tercero = 25;  // Default 'Z'
+        indice_notch_tercero = 25; 
     }
     else {
         indice_notch_tercero = notch_tercer_rotor[0] - 'A';
     }
 
-    // Cambiado para Error 3: Leer directamente a mensaje_procesado sin redundancia, aplicando filtro único
     std::string mensaje_procesado;
     std::ifstream archivo_entrada("cifrado.txt");
     if (archivo_entrada.is_open()) {
@@ -128,20 +127,17 @@ void descifrar(int primera_posicion_indice, int segunda_posicion_indice
         // El primer rotor avanza siempre una posición
         primera_posicion_indice = (primera_posicion_indice + 1) % 26;
 
-        // Cambiado para Error 2: Usar indice_notch_primero en lugar de hardcodeado
         if (primera_posicion_indice == indice_notch_primero) {
             segunda_posicion_indice
                 = (segunda_posicion_indice
                     + 1) % 26;
 
-            // Cambiado para Error 2: Usar indice_notch_segundo en lugar de hardcodeado
             if (segunda_posicion_indice
                 == indice_notch_segundo) {
                 tercera_posicion_indice = (tercera_posicion_indice + 1) % 26;
             }
         }
 
-        // Cambiado para Error 3: Paso por rotores inversos en orden 3->2->1 con ajuste de offset para reversibilidad
         int entrada = caracter - 'A';
 
         int entrada_efectiva3 = (entrada + tercera_posicion_indice) % 26;

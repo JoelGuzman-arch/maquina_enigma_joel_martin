@@ -26,7 +26,7 @@ int main() {
 
 
 		switch (opcion) {
-		case 1:  // Cifrar 
+		case 1:  
 		{
 
 			std::cout << "Introduce el mensaje a cifrar" << std::endl;
@@ -71,7 +71,7 @@ int main() {
 
 
 
-		case 2:  // Descifrar mensaje
+		case 2:  
 
 		{
 			std::string primera_posicion_rotor;
@@ -118,7 +118,7 @@ int main() {
 			std::cout << "Saliendo..." << std::endl;
 			return 0;  // Salir del programa
 
-		default:  // Opción inválida
+		default:  
 			std::cout << "Opcion invalida. Intenta de nuevo." << std::endl;
 			break;
 		}

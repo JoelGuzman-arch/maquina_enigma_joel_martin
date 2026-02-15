@@ -30,7 +30,6 @@ void editar_rotor() {
     std::string nuevo_cableado;
     std::getline(std::cin, nuevo_cableado);
 
-    // REUTILIZA TU FUNCIÓN esRotorValido()
     if (!esRotorValido(nuevo_cableado)) {
         std::cout << "[ERROR] Permutación incorrecta — calen 26 lletres úniques A-Z" << std::endl;
         return;
@@ -40,12 +39,12 @@ void editar_rotor() {
     std::string letra_notch;
     std::getline(std::cin, letra_notch);
 
-    char notch = 'Z';  // Por defecto
+    char notch = 'Z';  
     if (!letra_notch.empty() && esLetraMayuscula(letra_notch[0])) {
         notch = letra_notch[0];
     }
 
-    // GUARDAR AL ARCHIVO
+    // Guarda el archivo
     std::ofstream archivo(nombre_archivo);
     if (archivo.is_open()) {
         archivo << nuevo_cableado << std::endl;

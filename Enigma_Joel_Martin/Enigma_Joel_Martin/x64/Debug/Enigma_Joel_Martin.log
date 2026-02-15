@@ -1,0 +1,25 @@
+﻿  cifrar.cpp
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.h(17,1): error C2144: error de sintaxis: 'void' debe estar precedido de ';'
+  (compiling source file 'cifrar.cpp')
+  
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.h(15,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compiling source file 'cifrar.cpp')
+  
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.cpp(115,27): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.cpp(128,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.cpp(170,18): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  descifrar.cpp
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\descifrar.cpp(123,28): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\descifrar.cpp(148,31): error C2065: 'inverso_rotor_tercero': identificador no declarado
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\descifrar.cpp(153,31): error C2065: 'inverso_rotor_segundo': identificador no declarado
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\descifrar.cpp(158,31): error C2065: 'inverso_rotor_primero': identificador no declarado
+  editar_rotores.cpp
+  main.cpp
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.h(17,1): error C2144: error de sintaxis: 'void' debe estar precedido de ';'
+  (compiling source file 'main.cpp')
+  
+C:\Users\joelg\OneDrive\Documentos\maquina_enigma_joel_martin\Enigma_Joel_Martin\Enigma_Joel_Martin\cifrar.h(15,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compiling source file 'main.cpp')
+  
+  rotor.cpp
+  Generando código...

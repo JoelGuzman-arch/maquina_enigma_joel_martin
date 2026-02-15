@@ -76,7 +76,7 @@ void cifrar(std::string mensaje_original, int primera_posicion_indice, int segun
     }
     int indice_notch_primero;
     if (notch_primer_rotor.empty() || notch_primer_rotor[0] < 'A' || notch_primer_rotor[0] > 'Z') {
-        indice_notch_primero = 25;  // Default 'Z'
+        indice_notch_primero = 25;  
     }
     else {
         indice_notch_primero = notch_primer_rotor[0] - 'A';
@@ -90,7 +90,7 @@ void cifrar(std::string mensaje_original, int primera_posicion_indice, int segun
     }
     int indice_notch_segundo;
     if (notch_segundo_rotor.empty() || notch_segundo_rotor[0] < 'A' || notch_segundo_rotor[0] > 'Z') {
-        indice_notch_segundo = 25;  // Default 'Z'
+        indice_notch_segundo = 25;  
     }
     else {
         indice_notch_segundo = notch_segundo_rotor[0] - 'A';
@@ -104,7 +104,7 @@ void cifrar(std::string mensaje_original, int primera_posicion_indice, int segun
     }
     int indice_notch_tercero;
     if (notch_tercer_rotor.empty() || notch_tercer_rotor[0] < 'A' || notch_tercer_rotor[0] > 'Z') {
-        indice_notch_tercero = 25;  // Default 'Z'
+        indice_notch_tercero = 25;  
     }
     else {
         indice_notch_tercero = notch_tercer_rotor[0] - 'A';
@@ -144,7 +144,7 @@ void cifrar(std::string mensaje_original, int primera_posicion_indice, int segun
             }
         }
 
-        // Paso por los rotores hacia adelante (CIFRADO)
+        // Paso por los rotores hacia adelante 
         int entrada = caracter - 'A';
 
         int entrada_efectiva1 = (entrada + primera_posicion_indice) % 26;

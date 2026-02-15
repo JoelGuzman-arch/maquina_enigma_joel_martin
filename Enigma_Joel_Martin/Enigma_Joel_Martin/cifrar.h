@@ -12,8 +12,7 @@
  * poder descifrar el mensaje posteriormente.
  */
 
-tercera_posicion_indice
 
-void cifrar(std::string mensaje_original, int primera_posicion_indice, int segunda_posicion_indice
-	, int tercera_posicion_indice);
+
+void cifrar(std::string mensaje_original, int primera_posicion_indice, int segunda_posicion_indice, int tercera_posicion_indice);
 
