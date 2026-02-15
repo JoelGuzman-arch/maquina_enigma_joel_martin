@@ -10,4 +10,4 @@
  * rotores deben ser las mismas que se usaron al cifrar.
  */
 
-void descifrar(int primera_posicion_indice, int segunda_posicion_indice, int tercera_posicion_indice);
+void descifrar(int primera_posicion_indice, int segunda_posicion_indice, int tercera_posicion_indice);    

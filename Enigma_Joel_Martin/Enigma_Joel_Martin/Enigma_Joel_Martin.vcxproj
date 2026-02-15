@@ -139,6 +139,7 @@
     <ClInclude Include="comprobaciones.h" />
     <ClInclude Include="descifrar.h" />
     <ClInclude Include="editar_rotores.h" />
+    <ClInclude Include="includes.h" />
     <ClInclude Include="rotor.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
